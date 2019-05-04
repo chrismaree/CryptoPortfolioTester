@@ -1,2 +1,1 @@
-# CryptoPortfolioTester
-Jupyter Notebook Implementation of a crypto portfolio backtester
+virtualenv venv -p python3
