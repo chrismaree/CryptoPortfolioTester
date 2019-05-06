@@ -1,1 +1,1 @@
-See: https://chrismaree.github.io/CryptoPortfolioTester/CryptoBacktester.html
+See the notebook live [here](https://chrismaree.github.io/CryptoPortfolioTester/CryptoBacktester.html) 🚀
