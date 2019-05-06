@@ -1,3 +1,1 @@
-virtualenv venv -p python3
-
-python -m ipykernel install --user --name=crypto_backtester
+See: https://chrismaree.github.io/CryptoPortfolioTester/CryptoBacktester.html
